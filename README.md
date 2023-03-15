@@ -12,7 +12,7 @@ I’ve completed various projects during my time in university such as Implement
 ![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudMiahGIT&show_icons=true&theme=tokyonight)
 
 ### Technologies most used
-![This is an image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg width="200" height="400" )
+![This is an image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
           
 
 <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img><br>
