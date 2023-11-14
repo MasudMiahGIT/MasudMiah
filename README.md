@@ -2,7 +2,7 @@ Hi there, my name is Masud Miah:wave:
 
 - 🎓 Graduated with 1st class honours in Computer Science from University of London -  Queen Mary
 - 🧑‍💼 was a Junior developer for a company called CLIKD ltd for work experience
-- 📗 Im learning the fundementals of being a software engineer consultant with [Xander Talents](https://www.xandertalent.com/)
+- 📗 I'm currently working as a Graduate software engineer for DXC Technology
 
 l have developed a good foundation from my studies which includes critical thinking, analysing, and solving technical problems in a logical manner. Other assets include being an active listener always keen to be learning something new. I have had the aim of studying an aspect connected to computer science from a young age. I undertook computer science degree as it contains aspects for all my interests such as programming, networking, Artificial Intelligence, software development, electronics engineering, game development and database systems etc. I have the passion to improve my understanding in the computing/IT field because this is the digital age meaning that there are industries that provide new and improved technology constantly; l want to be part of this.
 
